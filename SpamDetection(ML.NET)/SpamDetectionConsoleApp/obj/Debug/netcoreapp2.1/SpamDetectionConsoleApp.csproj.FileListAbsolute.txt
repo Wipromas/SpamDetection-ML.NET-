@@ -1,0 +1,10 @@
+C:\Users\devNXT\Desktop\machinelearning-samples-master\samples\csharp\getting-started\BinaryClassification_SpamDetection\SpamDetectionConsoleApp\bin\Debug\netcoreapp2.1\SpamDetectionConsoleApp.deps.json
+C:\Users\devNXT\Desktop\machinelearning-samples-master\samples\csharp\getting-started\BinaryClassification_SpamDetection\SpamDetectionConsoleApp\bin\Debug\netcoreapp2.1\SpamDetectionConsoleApp.runtimeconfig.json
+C:\Users\devNXT\Desktop\machinelearning-samples-master\samples\csharp\getting-started\BinaryClassification_SpamDetection\SpamDetectionConsoleApp\bin\Debug\netcoreapp2.1\SpamDetectionConsoleApp.runtimeconfig.dev.json
+C:\Users\devNXT\Desktop\machinelearning-samples-master\samples\csharp\getting-started\BinaryClassification_SpamDetection\SpamDetectionConsoleApp\bin\Debug\netcoreapp2.1\SpamDetectionConsoleApp.dll
+C:\Users\devNXT\Desktop\machinelearning-samples-master\samples\csharp\getting-started\BinaryClassification_SpamDetection\SpamDetectionConsoleApp\bin\Debug\netcoreapp2.1\SpamDetectionConsoleApp.pdb
+C:\Users\devNXT\Desktop\machinelearning-samples-master\samples\csharp\getting-started\BinaryClassification_SpamDetection\SpamDetectionConsoleApp\obj\Debug\netcoreapp2.1\SpamDetectionConsoleApp.csprojAssemblyReference.cache
+C:\Users\devNXT\Desktop\machinelearning-samples-master\samples\csharp\getting-started\BinaryClassification_SpamDetection\SpamDetectionConsoleApp\obj\Debug\netcoreapp2.1\SpamDetectionConsoleApp.AssemblyInfoInputs.cache
+C:\Users\devNXT\Desktop\machinelearning-samples-master\samples\csharp\getting-started\BinaryClassification_SpamDetection\SpamDetectionConsoleApp\obj\Debug\netcoreapp2.1\SpamDetectionConsoleApp.AssemblyInfo.cs
+C:\Users\devNXT\Desktop\machinelearning-samples-master\samples\csharp\getting-started\BinaryClassification_SpamDetection\SpamDetectionConsoleApp\obj\Debug\netcoreapp2.1\SpamDetectionConsoleApp.dll
+C:\Users\devNXT\Desktop\machinelearning-samples-master\samples\csharp\getting-started\BinaryClassification_SpamDetection\SpamDetectionConsoleApp\obj\Debug\netcoreapp2.1\SpamDetectionConsoleApp.pdb

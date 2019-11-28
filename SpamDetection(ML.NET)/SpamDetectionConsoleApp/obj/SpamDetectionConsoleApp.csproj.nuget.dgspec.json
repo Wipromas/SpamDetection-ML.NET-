@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\devNXT\\Desktop\\machinelearning-samples-master\\samples\\csharp\\getting-started\\BinaryClassification_SpamDetection\\SpamDetectionConsoleApp\\SpamDetectionConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\devNXT\\Desktop\\machinelearning-samples-master\\samples\\csharp\\getting-started\\BinaryClassification_SpamDetection\\SpamDetectionConsoleApp\\SpamDetectionConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\devNXT\\Desktop\\machinelearning-samples-master\\samples\\csharp\\getting-started\\BinaryClassification_SpamDetection\\SpamDetectionConsoleApp\\SpamDetectionConsoleApp.csproj",
+        "projectName": "SpamDetectionConsoleApp",
+        "projectPath": "C:\\Users\\devNXT\\Desktop\\machinelearning-samples-master\\samples\\csharp\\getting-started\\BinaryClassification_SpamDetection\\SpamDetectionConsoleApp\\SpamDetectionConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\devNXT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\devNXT\\Desktop\\machinelearning-samples-master\\samples\\csharp\\getting-started\\BinaryClassification_SpamDetection\\SpamDetectionConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\devNXT\\Desktop\\machinelearning-samples-master\\samples\\NuGet.Config",
+          "C:\\Users\\devNXT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/MachineLearning/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
